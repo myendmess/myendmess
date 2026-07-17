@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Boujnane</h1>
-<h3 align="center">Data & AI Analyst | Business Intelligence Engineer | GARP Equity Strategist</h3>
+<h3 align="center">Data & AI Analyst | Business Intelligence Analyst </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mboujnane"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-I bridge the gap between **financial strategy** and **data engineering**. By day I ship end-to-end data pipelines and analytics as a Business Intelligence Analyst at **Integral Ad Science**; by conviction I'm a **GARP (Growth at a Reasonable Price) equity strategist** who treats fundamental analysis as an engineering problem — structured data in, defensible decisions out.
+I bridge the gap between **data engineering** and **data analytics**.
 
 - 🔭 **Currently:** building raw → staging → reporting pipelines with **dbt on Snowflake & Databricks**, powering **Tableau** and **Looker** dashboards at IAS
 - 🤖 **Applied AI:** LLM-assisted development (Claude API, Cursor), prompt engineering, and **multi-agent workflow automation** for pipeline planning, docs, and code review
