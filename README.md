@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Milan_/_Codogno,_Italy-1a1b27?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/📍_Italy-1a1b27?style=flat-square" alt="Location" />
   <img src="https://komarev.com/ghpvc/?username=myendmess&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
