@@ -92,7 +92,7 @@ I bridge the gap between **data engineering** and **data analytics**.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=myendmess&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myendmess&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
 </p>
 
 ---
