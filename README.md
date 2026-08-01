@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Boujnane</h1>
-<h3 align="center">Data & AI Analyst | Business Intelligence Analyst </h3>
+<h3 align="center">IA Engineer | Business Intelligence Analyst </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mboujnane"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
