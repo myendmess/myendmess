@@ -79,9 +79,72 @@ I bridge the gap between **data engineering** and **data analytics**.
 
 [![Google Advanced Data Analytics Certificate](https://images.credly.com/size/340x340/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png)](https://www.credly.com/badges/556107ba-9ad9-4766-8ce4-dc9822e1fe80)
 [![Google Business Intelligence Certificate](https://images.credly.com/size/340x340/images/cbe961ef-3536-47a1-be43-14c461a3216e/image.png)](https://www.credly.com/badges/70d257d5-3ea8-47e8-9952-e047eee918f6)
+[![IBM Generative AI Engineering — Generative AI Applications Specialist](https://images.credly.com/size/340x340/images/cdb44549-e7b6-47e7-a21f-160cecf8f38f/Coursera_20Generative_20AI_20Applications_20Specialist.png)](https://www.credly.com/badges/529e7a52-1256-4d27-a919-afbdfc1fd51a)
 
 </div>
 
+<p align="center">
+  <sub><strong>IBM Generative AI Engineering</strong> — 16 courses, 32 labs, 2 applications ·
+  <a href="https://coursera.org/verify/professional-cert/RGM4CI14VX95">verify</a> ·
+  <a href="https://myendmess.github.io/ibm-generative-ai-engineering/">badge wall</a> ·
+  <a href="https://github.com/myendmess/ibm-generative-ai-engineering">labs &amp; projects</a></sub>
+</p>
+
+<details>
+<summary><strong>All 16 IBM Generative AI Engineering badges</strong> — in certificate order</summary>
+
+<table>
+  <tr>
+    <td align="center" width="25%"><a href="https://www.credly.com/badges/621502ef-2895-4ff1-a84c-12e2afbff8b3"><img src="https://images.credly.com/size/340x340/images/3e199561-bc4a-4621-9361-340fc43d997e/Coursera_20Artificial_20Intelligence_20Essentials_20V2.png" width="88" alt="Artificial Intelligence Essentials V2"></a></td>
+    <td align="center" width="25%"><a href="https://www.credly.com/badges/d55353f7-52ea-4c8e-9782-16999885bcec"><img src="https://images.credly.com/size/340x340/images/7658c4f1-0570-42c7-83b0-04cac8b0aca2/image.png" width="88" alt="Generative AI Essentials"></a></td>
+    <td align="center" width="25%"><a href="https://www.credly.com/badges/c82a4b55-2a45-4027-9254-23607178dcb5"><img src="https://images.credly.com/size/340x340/images/7fd5a03e-823f-4449-af43-59afe528f4ee/image.png" width="88" alt="Generative AI: Prompt Engineering"></a></td>
+    <td align="center" width="25%"><a href="https://www.credly.com/badges/47a099a9-c371-431e-aaa5-c39eecbaa8a3"><img src="https://images.credly.com/size/340x340/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" width="88" alt="Python for Data Science and AI"></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><sub><a href="https://www.credly.com/badges/621502ef-2895-4ff1-a84c-12e2afbff8b3">1. Intro to AI</a></sub></td>
+    <td align="center" width="25%"><sub><a href="https://www.credly.com/badges/d55353f7-52ea-4c8e-9782-16999885bcec">2. GenAI: Intro &amp; Applications</a></sub></td>
+    <td align="center" width="25%"><sub><a href="https://www.credly.com/badges/c82a4b55-2a45-4027-9254-23607178dcb5">3. Prompt Engineering Basics</a></sub></td>
+    <td align="center" width="25%"><sub><a href="https://www.credly.com/badges/47a099a9-c371-431e-aaa5-c39eecbaa8a3">4. Python for Data Science &amp; AI</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><a href="https://www.credly.com/badges/5b1ec529-3a7c-47c0-8222-b317823430a3"><img src="https://images.credly.com/size/340x340/images/33ed2910-9750-4613-aa2a-590e845c6edb/image.png" width="88" alt="Python Project for AI and Application Development"></a></td>
+    <td align="center" width="25%"><a href="https://www.credly.com/badges/42d81964-4010-40c2-81f6-e7744a0652be"><img src="https://images.credly.com/size/340x340/images/e462102c-b2ee-4208-aca0-b58f53331266/image.png" width="88" alt="Building Generative AI-Powered Applications with Python"></a></td>
+    <td align="center" width="25%"><a href="https://www.credly.com/badges/710d072e-bfb3-4b31-87af-9ac015716f5b"><img src="https://images.credly.com/size/340x340/images/950038fc-2519-4f79-8827-f71caf0f5095/image.png" width="88" alt="Data Analysis with Python"></a></td>
+    <td align="center" width="25%"><a href="https://www.credly.com/badges/b8b85a94-549d-451e-93a1-ab1b55dc24b9"><img src="https://images.credly.com/size/340x340/images/56c60565-e945-4bcd-b8a6-9b2f43e1b0d9/Coursera_20Machine_20Learning_20with_20Python_20V2.png" width="88" alt="Machine Learning with Python (V2)"></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><sub><a href="https://www.credly.com/badges/5b1ec529-3a7c-47c0-8222-b317823430a3">5. AI Apps with Python &amp; Flask</a></sub></td>
+    <td align="center" width="25%"><sub><a href="https://www.credly.com/badges/42d81964-4010-40c2-81f6-e7744a0652be">6. GenAI-Powered Apps with Python</a></sub></td>
+    <td align="center" width="25%"><sub><a href="https://www.credly.com/badges/710d072e-bfb3-4b31-87af-9ac015716f5b">7. Data Analysis with Python</a></sub></td>
+    <td align="center" width="25%"><sub><a href="https://www.credly.com/badges/b8b85a94-549d-451e-93a1-ab1b55dc24b9">8. Machine Learning with Python</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><a href="https://www.credly.com/badges/d2cfa348-97d0-493e-992c-bf25feb2038d"><img src="https://images.credly.com/size/340x340/images/91de936a-1322-446d-9ea6-949d78c57428/image.png" width="88" alt="Deep Learning Essentials with Keras"></a></td>
+    <td align="center" width="25%"><a href="https://www.credly.com/badges/5a9b4700-b623-426e-ae44-2db23f88e15f"><img src="https://images.credly.com/size/340x340/images/a9f5d0ac-5ee8-47a6-a9df-09468f26e401/image.png" width="88" alt="Generative AI and LLMs: Architecture and Data Preparation"></a></td>
+    <td align="center" width="25%"><a href="https://www.credly.com/badges/4ae2551d-d13e-4f14-ad72-6c462433f7c3"><img src="https://images.credly.com/size/340x340/images/954a697e-66c0-45c3-8681-ced968dfa73e/blob" width="88" alt="Generative AI Foundational Models for NLP & Language Understanding"></a></td>
+    <td align="center" width="25%"><a href="https://www.credly.com/badges/4a5fda65-1f5f-41e4-a2ee-d652a9d36170"><img src="https://images.credly.com/size/340x340/images/bc7582ae-95c6-4e92-a425-d355c65b7d10/image.png" width="88" alt="Generative AI Language Modeling with Transformers"></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><sub><a href="https://www.credly.com/badges/d2cfa348-97d0-493e-992c-bf25feb2038d">9. Deep Learning with Keras</a></sub></td>
+    <td align="center" width="25%"><sub><a href="https://www.credly.com/badges/5a9b4700-b623-426e-ae44-2db23f88e15f">10. LLM Architecture &amp; Data Prep</a></sub></td>
+    <td align="center" width="25%"><sub><a href="https://www.credly.com/badges/4ae2551d-d13e-4f14-ad72-6c462433f7c3">11. Foundational Models for NLP</a></sub></td>
+    <td align="center" width="25%"><sub><a href="https://www.credly.com/badges/4a5fda65-1f5f-41e4-a2ee-d652a9d36170">12. Language Modeling with Transformers</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><a href="https://www.credly.com/badges/63fd936d-118e-4be2-876d-0749c51da99a"><img src="https://images.credly.com/size/340x340/images/6387f397-234b-480c-a0a0-4f9d6f8654a8/blob" width="88" alt="Generative AI Engineering with Transformers & LLMs"></a></td>
+    <td align="center" width="25%"><a href="https://www.credly.com/badges/4a5d1326-5204-4249-a31b-e4d95b956fb6"><img src="https://images.credly.com/size/340x340/images/e61e6ff9-3502-4d64-b726-64f932ffbf02/Coursera_20Generative_20AI_20Advanced_20Fine_20Tuning_20for_20LLMs.png" width="88" alt="Generative AI Advanced Fine-Tuning for LLMs"></a></td>
+    <td align="center" width="25%"><a href="https://www.credly.com/badges/4f3b5576-342c-469c-9e20-c342dcd5ccd4"><img src="https://images.credly.com/size/340x340/images/bc1ee755-d8b5-4068-91fa-60a6e05f12dc/Coursera_20AI_20Agents_20Using_20RAG_20and_20LangChain.png" width="88" alt="AI Agents Using RAG and LangChain"></a></td>
+    <td align="center" width="25%"><a href="https://www.credly.com/badges/529e7a52-1256-4d27-a919-afbdfc1fd51a"><img src="https://images.credly.com/size/340x340/images/cdb44549-e7b6-47e7-a21f-160cecf8f38f/Coursera_20Generative_20AI_20Applications_20Specialist.png" width="88" alt="Generative AI Applications Specialist"></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><sub><a href="https://www.credly.com/badges/63fd936d-118e-4be2-876d-0749c51da99a">13. Engineering &amp; Fine-Tuning Transformers</a></sub></td>
+    <td align="center" width="25%"><sub><a href="https://www.credly.com/badges/4a5d1326-5204-4249-a31b-e4d95b956fb6">14. Advanced Fine-Tuning for LLMs</a></sub></td>
+    <td align="center" width="25%"><sub><a href="https://www.credly.com/badges/4f3b5576-342c-469c-9e20-c342dcd5ccd4">15. AI Agents with RAG &amp; LangChain</a></sub></td>
+    <td align="center" width="25%"><sub><a href="https://www.credly.com/badges/529e7a52-1256-4d27-a919-afbdfc1fd51a">16. Capstone: GenAI Apps with RAG &amp; LangChain</a></sub></td>
+  </tr>
+</table>
+
+</details>
 ---
 
 ### 📊 GitHub Stats
