@@ -150,12 +150,12 @@ I bridge the gap between **data engineering** and **data analytics**.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=myendmess&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=myendmess&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" height="165" />
+  <img src="profile/stats.svg" alt="GitHub Stats" height="165" />
+  <img src="profile/top-langs.svg" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myendmess&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
+  <img src="profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 ---
